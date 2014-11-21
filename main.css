@@ -1,8 +1,9 @@
-/* CSS declarations go here */
+/* CSS on top of bootstrap */
+
 body {
-	margin: 20px 40px;
-	color: #333;
- 	font-family: sans-serif;
- 	font-size: 115%;
- 	line-height: 30px;	
+	font-size: 1.7em;
+}
+
+footer {
+	padding-top: 400px;
 }
